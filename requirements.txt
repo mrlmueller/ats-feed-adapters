@@ -1,0 +1,4 @@
+httpx
+defusedxml
+rapidfuzz
+pytest
